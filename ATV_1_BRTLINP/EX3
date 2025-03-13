@@ -1,0 +1,12 @@
+EX3
+#include <stdio.h>
+
+int main(){
+    
+    float usd = 5.685, euro = 5.943, btc = 534202.532 ;
+    
+    printf(" Valor do dolar atualmente: %.3f\n", usd);
+    printf(" Valor do euro atualmente: %.3f\n", euro);
+    printf(" Valor do bitcoin atualmente: %.3f\n", btc);
+    return 0;
+}

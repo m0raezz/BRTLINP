@@ -1,0 +1,11 @@
+EX2
+#include <stdio.h>
+
+int main(){
+    
+    int ano = 2006;
+    int idade = 2026-ano;
+    printf("Ano de nascimento: %d", ano);
+    printf("Idade no fim do ano que vem: %d", idade);
+    
+    return 0;

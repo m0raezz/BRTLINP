@@ -1,0 +1,31 @@
+EX4
+#include <stdio.h>
+
+int main(){
+    
+    char c = 'Y';
+    char c1 = c+1;
+    char c2 = c+2;
+    char c3 = c+3;
+    char c4 = c+4;
+    char c5 = c+5;
+    char c6 = c+6;
+    char c7 = c+7;
+    char c8 = c+8;
+    char c9 = c+9;
+    char c10 = c+10;
+    
+
+    printf("%c\n", c1);
+    printf("%c\n", c2);
+    printf("%c\n", c3);
+    printf("%c\n", c4);
+    printf("%c\n", c5);
+    printf("%c\n", c6);
+    printf("%c\n", c7);
+    printf("%c\n", c8);
+    printf("%c\n", c9);
+    printf("%c\n", c10);
+
+    return 0;
+}

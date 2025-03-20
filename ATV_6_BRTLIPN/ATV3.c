@@ -58,9 +58,7 @@ int main() {
                     }
                 }
             }
-            printf("%d", contador);
-            
-        
+
         }
     
     }            

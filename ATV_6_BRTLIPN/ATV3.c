@@ -27,7 +27,7 @@ int main() {
 
                     if ((lado2 * lado2) + (lado3 * lado3) == (lado1 * lado1)) {
                         printf("%s\n", frase);  
-                        contador = -1;
+
                     }else{
                         puts("Triangulo retangulo invalido");
                     }
@@ -40,7 +40,7 @@ int main() {
 
                     if ((lado1 * lado1) + (lado3 * lado3) == (lado2 * lado2)) {
                         printf("%s\n", frase);  
-                        contador = -1;
+
                     }else{
                         puts("Triangulo retangulo invalido");
                     }
@@ -52,13 +52,13 @@ int main() {
                 if (lado3 >= lado2) {
                     
                     if ((lado1 * lado1) + (lado2 * lado2) == (lado3 * lado3)) {
-                        printf("%s\n", frase);  // Adiciona uma nova linha após a frase
-                        contador = -1;
+                        printf("%s\n", frase); 
                     }else{
                         puts("Triangulo retangulo invalido");
                     }
                 }
             }
+            printf("%d", contador);
             
         
         }

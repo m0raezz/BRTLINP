@@ -22,43 +22,44 @@ int main() {
             scanf("%f", &lado3);  
 
 
-            if (lado1 > lado2) {
-                if (lado1 > lado3) {
+            if (lado1 >= lado2) {
+                if (lado1 >= lado3) {
 
                     if ((lado2 * lado2) + (lado3 * lado3) == (lado1 * lado1)) {
                         printf("%s\n", frase);  
                         contador = -1;
                     }else{
-                        puts("Triangulo invalido");
+                        puts("Triangulo retangulo invalido");
                     }
                 }
             }
 
 
-            if (lado2 > lado1) {
-                if (lado2 > lado3) {
+            if (lado2 >= lado1) {
+                if (lado2 >= lado3) {
 
                     if ((lado1 * lado1) + (lado3 * lado3) == (lado2 * lado2)) {
                         printf("%s\n", frase);  
                         contador = -1;
                     }else{
-                        puts("Triangulo invalido");
+                        puts("Triangulo retangulo invalido");
                     }
                 }
             }
 
             
-            if (lado3 > lado1) {
-                if (lado3 > lado2) {
+            if (lado3 >= lado1) {
+                if (lado3 >= lado2) {
                     
                     if ((lado1 * lado1) + (lado2 * lado2) == (lado3 * lado3)) {
                         printf("%s\n", frase);  // Adiciona uma nova linha após a frase
                         contador = -1;
                     }else{
-                        puts("Triangulo invalido");
+                        puts("Triangulo retangulo invalido");
                     }
                 }
             }
+            
         
         }
     

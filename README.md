@@ -1,8 +1,8 @@
 ## Aulas
 
 
-| SEMANA | LINK |
-| ------ | ------ |
+                        | SEMANA | LINK |
+                        | ------ | ------ |
 | 1 | [https://github.com/m0raezz/BRTLINP/tree/main/ATV_1_BRTLINP] |
 | 2 | [https://github.com/m0raezz/BRTLINP/tree/main/ATV_2_BRTLINP] |
 | 3 | [https://github.com/m0raezz/BRTLINP/tree/main/ATV_3_BRTLINP] |

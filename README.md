@@ -12,4 +12,4 @@
 | 7 | [https://github.com/m0raezz/BRTLINP/tree/main/ATV_7_BRTLINP] |
 | 8 | [https://github.com/m0raezz/BRTLINP/tree/main/ATV_8_BRTLINP] |
 | 9 | [https://github.com/m0raezz/BRTLINP/tree/main/ATV_9_BRTLINP] |
-| 9 | [https://github.com/m0raezz/BRTLINP/tree/main/ATV_A10_BRTLINP] |
+| 10 | [https://github.com/m0raezz/BRTLINP/tree/main/ATV_A10_BRTLINP] |

@@ -7,7 +7,7 @@ int main() {
     int x, y, z;
 
     scan(&x, &y, &z);
-    printf("O maior numero e: %d \n", maior2(x, y, z));
+    printf("O maior numero e: %d \n", maior(x, maior(y, z)));
 
     
 

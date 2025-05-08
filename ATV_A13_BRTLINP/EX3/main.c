@@ -22,10 +22,10 @@ int main() {
     char palavra1[TAMANHO], palavra2[TAMANHO];
 
     printf("Digite a primeira palavra: ");
-    scanf("%s", palavra1);
+    scanf("%49s", palavra1);
 
     printf("Digite a segunda palavra: ");
-    scanf("%s", palavra2);
+    scanf("%49s", palavra2);
     
     an(palavra1);
     an(palavra2);

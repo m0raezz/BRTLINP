@@ -15,14 +15,14 @@ int main() {
 
         if(rsp == 'F') break;
 
-        if (rsp == 'D') {
+        if (rsp == 'A') {
             for (int i = 1; i <= altura; i++) {
                 for (int j = 1; j <= i; j++) {
                     printf("*");
                 }
                 printf("\n");
             }
-        } else if (rsp == 'A') {
+        } else if (rsp == 'D') {
             for (int i = 1; i <= altura; i++) {
                 for (int j = 1; j <= altura - i; j++) {
                     printf(" ");
